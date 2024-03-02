@@ -2,5 +2,5 @@
     "name": "Me me meo meo",
     "symbol": "MECAT",
     "description": "Thu nghiem dau tien",
-    "image": "https://icon-library.com/images/2018/2334822_cartoon-santa-hat-christmas-cat-black-and-white.png",
+    "image": "https://icon-library.com/images/2018/2334822_cartoon-santa-hat-christmas-cat-black-and-white.png"
 }
